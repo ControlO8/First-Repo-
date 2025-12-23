@@ -1,3 +1,8 @@
+# These were manually added by me (I kept the others since im using a Python template)
+*.zip
+*.rar
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
