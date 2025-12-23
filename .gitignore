@@ -1,7 +1,10 @@
 # These were manually added by me (I kept the others since im using a Python template)
 *.zip
 *.rar
-
+*.7z
+*.tar
+*.tmp
+tmp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
